@@ -30,4 +30,4 @@ L'API écoute sur `http://localhost:8080`.
 ## Contribuer
 1. Créer une branche depuis `main` : `git switch -c feat/ma-fonctionnalite`
 2. Commits au format [Conventional Commits](https://www.conventionalcommits.org/fr/)
-3. Ouvrir une Pull Request ; la fusion exige une revue et des tests verts.
+3. Ouvrir une Pull Request ; la fusion exige une revue et des tests verts.# test interdit
