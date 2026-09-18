@@ -1,6 +1,6 @@
 # TaskOps API
 [![CI](https://github.com/Noah-1112/taskops-api/actions/workflows/ci.yml/badge.svg)](https://github.com/Noah-1112/taskops-api/actions/workflows/ci.yml)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=noah-1112_taskops-api&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=noah-1112_taskops-api)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=taskops-api&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=taskops-api)
 API REST de gestion de tâches — projet fil rouge de la formation
 **B3 - DevOps : culture, outils et automatisation**.
 ## Stack
