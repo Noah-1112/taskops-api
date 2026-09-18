@@ -1,4 +1,6 @@
 # TaskOps API
+[![CI](https://github.com/Noah-1112/taskops-api/actions/workflows/ci.yml/badge.svg)](https://github.com/Noah-1112/taskops-api/actions/workflows/ci.yml)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=noah-1112_taskops-api&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=noah-1112_taskops-api)
 API REST de gestion de tâches — projet fil rouge de la formation
 **B3 - DevOps : culture, outils et automatisation**.
 ## Stack
@@ -31,3 +33,5 @@ L'API écoute sur `http://localhost:8080`.
 1. Créer une branche depuis `main` : `git switch -c feat/ma-fonctionnalite`
 2. Commits au format [Conventional Commits](https://www.conventionalcommits.org/fr/)
 3. Ouvrir une Pull Request ; la fusion exige une revue et des tests verts.# test interdit
+
+
