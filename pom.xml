@@ -29,9 +29,6 @@
         <!-- Coordonnees SonarQube Cloud -->
         <sonar.organization>noah-1112</sonar.organization>
         <sonar.projectKey>taskops-api</sonar.projectKey>
-        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-        <!-- Indique a Sonar ou trouver le rapport de couverture produit par JaCoCo -->
-        <sonar.coverage.jacoco.xmlReportPaths>
             ${project.build.directory}/site/jacoco/jacoco.xml
         </sonar.coverage.jacoco.xmlReportPaths>
     </properties>
