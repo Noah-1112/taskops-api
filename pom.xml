@@ -26,9 +26,9 @@
         <!-- Encodage explicite : evite les surprises entre Windows, macOS et la CI Linux -->
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
-        <!-- Coordonnees SonarQube Cloud : remplacez par VOS valeurs -->
-        <sonar.organization>votre-pseudo</sonar.organization>
-        <sonar.projectKey>votre-pseudo_taskops-api</sonar.projectKey>
+        <!-- Coordonnees SonarQube Cloud -->
+        <sonar.organization>noah-1112</sonar.organization>
+        <sonar.projectKey>taskops-api</sonar.projectKey>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
         <!-- Indique a Sonar ou trouver le rapport de couverture produit par JaCoCo -->
         <sonar.coverage.jacoco.xmlReportPaths>
